@@ -3,4 +3,4 @@
 These are propsed History API response mocks
 
 GET:`/events/{assetId}`
-[I'm an inline-style link](https://www.google.com)
+[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/events.json)
