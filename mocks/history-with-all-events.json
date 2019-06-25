@@ -11,23 +11,23 @@
           "eventId": "35bcc999-4d82-498c-89ca-46c8437eb8e2",
           "assetId": "cq915kk4wy5o",
           "type": "Withdrawn",
-          "timestamp": "Mon, 24 Jun 2019 22:15:04 GMT",
+          "timestamp": "Mon, 25 Jun 2019 17:15:04 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 2.1
         },
         {
-          "eventId": "35bcc999-4d82-498c-89ca-46c8437eb8e2",
+          "eventId": "b7c90d2b-843d-4cd5-a22c-5c6d8b78995f",
           "assetId": "cq915kk4wy5o",
           "type": "PublishedMinorChange",
-          "timestamp": "Mon, 24 Jun 2019 22:09:04 GMT",
+          "timestamp": "Mon, 25 Jun 2019 16:09:04 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 2.1
         },
         {
-          "eventId": "478d88fe-7c10-4a9b-b981-6ba44aa8d86a",
+          "eventId": "27ac524b-4b26-42df-b1d5-2ec00bf194af",
           "assetId": "cq915kk4wy5o",
           "type": "Published",
-          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "timestamp": "Mon, 25 Jun 2019 15:09:04 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 2.0
         }
@@ -69,7 +69,7 @@
           "eventId": "20386ded-e196-4767-97a4-38295d94cf8e",
           "assetId": "cq915kk4wy5o",
           "type": "Restored",
-          "timestamp": "Mon, 24 Jun 2019 21:30:09 GMT",
+          "timestamp": "Mon, 23 Jun 2019 21:30:09 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 0.0
         },
@@ -77,7 +77,7 @@
           "eventId": "9501d6f8-63cf-49bd-a1c8-831c8a9df433",
           "assetId": "cq915kk4wy5o",
           "type": "Deleted",
-          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "timestamp": "Mon, 23 Jun 2019 21:09:04 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 0.0
         },
@@ -85,7 +85,7 @@
           "eventId": "6fa59f5c-bd31-4178-a818-f97b9f1544d7",
           "assetId": "cq915kk4wy5o",
           "type": "Saved",
-          "timestamp": "Mon, 24 Jun 2019 20:09:04 GMT",
+          "timestamp": "Mon, 23 Jun 2019 20:09:04 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 0.0
         },
@@ -93,7 +93,7 @@
           "eventId": "1519bbd3-256f-42af-8ac7-8d4b677b7789",
           "assetId": "cq915kk4wy5o",
           "type": "Created",
-          "timestamp": "Mon, 24 Jun 2019 19:09:00 GMT",
+          "timestamp": "Mon, 23 Jun 2019 19:09:00 GMT",
           "userId": "some.one@bbc.co.uk",
           "assertVersion": 0.0
         }
