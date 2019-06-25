@@ -46,3 +46,7 @@ GET:`/history/{assetId}`
 
 GET:`/history/{assetId}`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-pagination.json)
+
+## Questions
+
+* should we move the assetId out of the `Event` item and include it only at the route?
