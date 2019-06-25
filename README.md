@@ -36,3 +36,13 @@ added in headline and events and renamed results to events
 
 GET:`/history/{assetId}`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history.json)
+
+## History with full range of events
+
+GET:`/history/{assetId}`
+[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-all-events.json)
+
+## History with more results...
+
+GET:`/history/{assetId}`
+[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-all-events.json)

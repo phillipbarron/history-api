@@ -1,0 +1,103 @@
+{
+  "version": "2.1",
+  "headline": "Man bites dog",
+  "totalCount": 10,
+  "hasNextPage": false,
+  "history": [
+    {
+      "version": 2,
+      "events": [
+        {
+          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "assetId": "cq915kk4wy5o",
+          "type": "Withdrawn",
+          "timestamp": "Mon, 24 Jun 2019 22:15:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 2.1
+        },
+        {
+          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "assetId": "cq915kk4wy5o",
+          "type": "PublishedMinorChange",
+          "timestamp": "Mon, 24 Jun 2019 22:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 2.1
+        },
+        {
+          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "assetId": "cq915kk4wy5o",
+          "type": "Published",
+          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 2.0
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "events": [
+        {
+          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "assetId": "cq915kk4wy5o",
+          "type": "Saved",
+          "timestamp": "Mon, 24 Jun 2019 22:15:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 1.1
+        },
+        {
+          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "assetId": "cq915kk4wy5o",
+          "type": "PublishedMinorChange",
+          "timestamp": "Mon, 24 Jun 2019 22:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 1.1
+        },
+        {
+          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "assetId": "cq915kk4wy5o",
+          "type": "Published",
+          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 1.0
+        }
+      ]
+    },
+    {
+      "version": 0,
+      "events": [
+        {
+          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "assetId": "cq915kk4wy5o",
+          "type": "Restored",
+          "timestamp": "Mon, 24 Jun 2019 21:30:09 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 0.0
+        },
+        {
+          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "assetId": "cq915kk4wy5o",
+          "type": "Deleted",
+          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 0.0
+        },
+        {
+          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "assetId": "cq915kk4wy5o",
+          "type": "Saved",
+          "timestamp": "Mon, 24 Jun 2019 20:09:04 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 0.0
+        },
+        {
+          "eventId": "1519bbd3-256f-42af-8ac7-8d4b677b7789",
+          "assetId": "cq915kk4wy5o",
+          "type": "Created",
+          "timestamp": "Mon, 24 Jun 2019 19:09:00 GMT",
+          "userId": "some.one@bbc.co.uk",
+          "assertVersion": 0.0
+        }
+      ]
+    }
+  ]
+}
