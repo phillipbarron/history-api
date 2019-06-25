@@ -42,7 +42,7 @@ GET:`/history/{assetId}`
 GET:`/history/{assetId}`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-all-events.json)
 
-## History with more results
+## History with pagination
 
 GET:`/history/{assetId}`
-[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-all-events.json)
+[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-pagination.json)
