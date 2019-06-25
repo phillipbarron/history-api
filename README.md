@@ -50,3 +50,30 @@ GET:`/history/{assetId}`
 ## Questions
 
 * should we move the assetId out of the `Event` item and include it only at the route?
+
+  ```javascript
+  {
+    "version": "1.0",
+    "assetId": "cq915kk4wy5o",
+    "headline": "Man bites dog",
+    "totalCount": 37,
+    "hasNextPage": false,
+    "history": [
+      {
+        "version": 0,
+        "events": [
+          {
+            "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+            "type": "Published",
+            "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+            "userId": "some.one@bbc.co.uk",
+            "assertVersion": 0.0
+          }
+        ]
+      },
+      {
+        ...
+      }
+    ]
+  }
+  ```
