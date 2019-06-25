@@ -8,7 +8,7 @@
       "version": 2,
       "events": [
         {
-          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "eventId": "35bcc999-4d82-498c-89ca-46c8437eb8e2",
           "assetId": "cq915kk4wy5o",
           "type": "Withdrawn",
           "timestamp": "Mon, 24 Jun 2019 22:15:04 GMT",
@@ -16,7 +16,7 @@
           "assertVersion": 2.1
         },
         {
-          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "eventId": "35bcc999-4d82-498c-89ca-46c8437eb8e2",
           "assetId": "cq915kk4wy5o",
           "type": "PublishedMinorChange",
           "timestamp": "Mon, 24 Jun 2019 22:09:04 GMT",
@@ -24,7 +24,7 @@
           "assertVersion": 2.1
         },
         {
-          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "eventId": "478d88fe-7c10-4a9b-b981-6ba44aa8d86a",
           "assetId": "cq915kk4wy5o",
           "type": "Published",
           "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
@@ -37,7 +37,7 @@
       "version": 1,
       "events": [
         {
-          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "eventId": "45509fdb-2aad-430e-9df7-b28a1c26209e",
           "assetId": "cq915kk4wy5o",
           "type": "Saved",
           "timestamp": "Mon, 24 Jun 2019 22:15:04 GMT",
@@ -45,7 +45,7 @@
           "assertVersion": 1.1
         },
         {
-          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "eventId": "90d8719f-7999-42a6-a5a2-4aa4370709ae",
           "assetId": "cq915kk4wy5o",
           "type": "PublishedMinorChange",
           "timestamp": "Mon, 24 Jun 2019 22:09:04 GMT",
@@ -53,7 +53,7 @@
           "assertVersion": 1.1
         },
         {
-          "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
+          "eventId": "931f3fce-51ed-42a2-a46e-4856cb7df428",
           "assetId": "cq915kk4wy5o",
           "type": "Published",
           "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
@@ -66,7 +66,7 @@
       "version": 0,
       "events": [
         {
-          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "eventId": "20386ded-e196-4767-97a4-38295d94cf8e",
           "assetId": "cq915kk4wy5o",
           "type": "Restored",
           "timestamp": "Mon, 24 Jun 2019 21:30:09 GMT",
@@ -74,7 +74,7 @@
           "assertVersion": 0.0
         },
         {
-          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "eventId": "9501d6f8-63cf-49bd-a1c8-831c8a9df433",
           "assetId": "cq915kk4wy5o",
           "type": "Deleted",
           "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
@@ -82,7 +82,7 @@
           "assertVersion": 0.0
         },
         {
-          "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
+          "eventId": "6fa59f5c-bd31-4178-a818-f97b9f1544d7",
           "assetId": "cq915kk4wy5o",
           "type": "Saved",
           "timestamp": "Mon, 24 Jun 2019 20:09:04 GMT",
