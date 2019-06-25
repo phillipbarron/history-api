@@ -1,6 +1,8 @@
 {
   "version": "1.0",
   "headline": "Man bites dog",
+  "totalCount": 37,
+  "hasNextPage": true,
   "history": [
     {
       "version": 1,
