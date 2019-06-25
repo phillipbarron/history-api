@@ -1,6 +1,7 @@
 {
   "version": "1.0",
   "headline": "Man bites dog",
+  "assetId": "cq915kk4wy5o",
   "total": 37,
   "hasNextPage": false,
   "history": [
@@ -9,7 +10,6 @@
       "events": [
         {
           "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
-          "assetId": "cq915kk4wy5o",
           "type": "Published",
           "timestamp": "2019-06-24T21:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -22,7 +22,6 @@
       "events": [
         {
           "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
-          "assetId": "cq915kk4wy5o",
           "type": "Saved",
           "timestamp": "2019-06-24T20:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -30,7 +29,6 @@
         },
         {
           "eventId": "1519bbd3-256f-42af-8ac7-8d4b677b7789",
-          "assetId": "cq915kk4wy5o",
           "type": "Created",
           "timestamp": "2019-06-24T19:09:00Z",
           "userId": "some.one@bbc.co.uk",

@@ -1,6 +1,7 @@
 {
   "version": "2.1",
   "headline": "Man bites dog",
+  "assetId": "cq915kk4wy5o",
   "total": 10,
   "hasNextPage": false,
   "history": [
@@ -9,7 +10,6 @@
       "events": [
         {
           "eventId": "35bcc999-4d82-498c-89ca-46c8437eb8e2",
-          "assetId": "cq915kk4wy5o",
           "type": "Withdrawn",
           "timestamp": "2019-06-24T09:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -17,7 +17,6 @@
         },
         {
           "eventId": "b7c90d2b-843d-4cd5-a22c-5c6d8b78995f",
-          "assetId": "cq915kk4wy5o",
           "type": "PublishedMinorChange",
           "timestamp": "2019-06-24T08:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -25,7 +24,6 @@
         },
         {
           "eventId": "27ac524b-4b26-42df-b1d5-2ec00bf194af",
-          "assetId": "cq915kk4wy5o",
           "type": "Published",
           "timestamp": "2019-06-24T07:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -38,7 +36,6 @@
       "events": [
         {
           "eventId": "45509fdb-2aad-430e-9df7-b28a1c26209e",
-          "assetId": "cq915kk4wy5o",
           "type": "Saved",
           "timestamp": "2019-06-24T06:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -46,7 +43,6 @@
         },
         {
           "eventId": "90d8719f-7999-42a6-a5a2-4aa4370709ae",
-          "assetId": "cq915kk4wy5o",
           "type": "PublishedMinorChange",
           "timestamp": "2019-06-24T05:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -54,7 +50,6 @@
         },
         {
           "eventId": "931f3fce-51ed-42a2-a46e-4856cb7df428",
-          "assetId": "cq915kk4wy5o",
           "type": "Published",
           "timestamp": "2019-06-24T04:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -67,7 +62,6 @@
       "events": [
         {
           "eventId": "20386ded-e196-4767-97a4-38295d94cf8e",
-          "assetId": "cq915kk4wy5o",
           "type": "Restored",
           "timestamp": "2019-06-24T03:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -75,7 +69,6 @@
         },
         {
           "eventId": "9501d6f8-63cf-49bd-a1c8-831c8a9df433",
-          "assetId": "cq915kk4wy5o",
           "type": "Deleted",
           "timestamp": "2019-06-24T02:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -83,7 +76,6 @@
         },
         {
           "eventId": "6fa59f5c-bd31-4178-a818-f97b9f1544d7",
-          "assetId": "cq915kk4wy5o",
           "type": "Saved",
           "timestamp": "2019-06-24T01:09:00Z",
           "userId": "some.one@bbc.co.uk",
@@ -91,7 +83,6 @@
         },
         {
           "eventId": "1519bbd3-256f-42af-8ac7-8d4b677b7789",
-          "assetId": "cq915kk4wy5o",
           "type": "Created",
           "timestamp": "2019-06-24T00:09:00Z",
           "userId": "some.one@bbc.co.uk",

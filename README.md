@@ -46,34 +46,3 @@ GET:`/history/{assetId}?page=n`
 
 GET:`/history/{assetId}?page=n`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-pagination.json)
-
-## Questions
-
-* should we move the assetId out of the `Event` item and include it only at the root?
-
-  ```javascript
-  {
-    "version": "0.0",
-    "assetId": "cq915kk4wy5o",
-    "headline": "Man bites dog",
-    "totalCount": 37,
-    "hasNextPage": false,
-    "history": [
-      {
-        "version": 0,
-        "events": [
-          {
-            "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
-            "type": "Published",
-            "timestamp": "2019-06-24T19:09:00Z",
-            "userId": "some.one@bbc.co.uk",
-            "assertVersion": 0.0
-          }
-        ]
-      },
-      {
-        ...
-      }
-    ]
-  }
-  ```
