@@ -53,7 +53,7 @@ GET:`/history/{assetId}`
 
   ```javascript
   {
-    "version": "1.0",
+    "version": "0.0",
     "assetId": "cq915kk4wy5o",
     "headline": "Man bites dog",
     "totalCount": 37,
