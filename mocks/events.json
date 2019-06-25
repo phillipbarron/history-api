@@ -1,5 +1,5 @@
 {
-  "totalCount": 37,
+  "total": 37,
   "hasNextPage": false,
   "results": [
     {
@@ -9,9 +9,9 @@
           "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
           "assetId": "cq915kk4wy5o",
           "type": "Published",
-          "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+          "timestamp": "2019-06-24T03:09:00Z",
           "userId": "some.one@bbc.co.uk",
-          "assertVersion": 1.0
+          "assetVersion": 1.0
         }
       ]
     },
@@ -22,17 +22,17 @@
           "eventId": "cd5ed3ba-5dee-4907-9538-31e91f57c5a4",
           "assetId": "cq915kk4wy5o",
           "type": "Saved",
-          "timestamp": "Mon, 24 Jun 2019 20:09:04 GMT",
+          "timestamp": "2019-06-24T02:09:00Z",
           "userId": "some.one@bbc.co.uk",
-          "assertVersion": 0.0
+          "assetVersion": 0.0
         },
         {
           "eventId": "1519bbd3-256f-42af-8ac7-8d4b677b7789",
           "assetId": "cq915kk4wy5o",
           "type": "Created",
-          "timestamp": "Mon, 24 Jun 2019 19:09:00 GMT",
+          "timestamp": "2019-06-24T01:09:00Z",
           "userId": "some.one@bbc.co.uk",
-          "assertVersion": 0.0
+          "assetVersion": 0.0
         }
       ]
     }

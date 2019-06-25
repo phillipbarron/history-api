@@ -27,7 +27,7 @@ These are propsed History API response mocks
 
 initial proposal does not leave space for headline & version would be inferred
 
-GET:`/events/{assetId}?page=n`
+GET:`/events/{assetId}`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/events.json)
 
 ## History
@@ -49,7 +49,7 @@ GET:`/history/{assetId}?page=n`
 
 ## Questions
 
-* should we move the assetId out of the `Event` item and include it only at the route?
+* should we move the assetId out of the `Event` item and include it only at the root?
 
   ```javascript
   {
@@ -65,7 +65,7 @@ GET:`/history/{assetId}?page=n`
           {
             "eventId": "2a925310-e7f9-4a5b-9fd0-25e368ec5b40",
             "type": "Published",
-            "timestamp": "Mon, 24 Jun 2019 21:09:04 GMT",
+            "timestamp": "2019-06-24T19:09:00Z",
             "userId": "some.one@bbc.co.uk",
             "assertVersion": 0.0
           }
