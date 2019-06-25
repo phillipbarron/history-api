@@ -2,6 +2,27 @@
 
 These are propsed History API response mocks
 
+### Event Structure
+
+```javascript
+{
+  "eventId": "GUID",
+  "assetId": "String",
+  "type": [
+    "Created",
+    "Saved",
+    "Withdrawn",
+    "Deleted",
+    "Restored",
+    "MinorUpdatePublished",
+    "Published"
+  ],
+  "timestamp": "Date",
+  "userId": "some.one@bbc.co.uk",
+  "assertVersion": "SemVer"
+},
+```
+
 ## Events
 
 initial proposal does not leave space for headline & version would be inferred
