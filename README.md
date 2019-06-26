@@ -46,3 +46,8 @@ GET:`/history/{assetId}?page=n`
 
 GET:`/history/{assetId}?page=n`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history-with-pagination.json)
+
+## State
+
+GET: `/state/{assetId}/{eventId}`
+[mock](https://github.com/phillipbarron/history-api/blob/master/mocks/state.json)
