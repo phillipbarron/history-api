@@ -1,0 +1,45 @@
+{
+  "type": "article",
+  "blocks": [
+    {
+      "type": "text",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "model": {
+            "text": "The government's emergency committee Cobra is to be updated on the police probe into the suspected poisoning of a former Russian double agent.",
+            "blocks": [
+              {
+                "type": "fragment",
+                "model": {
+                  "text": "The government's emergency committee Cobra is to be updated on the police probe into the suspected poisoning of a former Russian double agent.",
+                  "attributes": ["bold"]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "model": {
+            "text": "Sergei Skripal, 66, and his daughter Yulia, 33, have spent a third night in a critical condition in hospital after being found unconscious in Salisbury.",
+            "blocks": [
+              {
+                "type": "fragment",
+                "model": {
+                  "text": "Sergei Skripal, 66, and his daughter Yulia, 33, have spent a third night in a critical condition in hospital after being found unconscious in Salisbury.",
+                  "attributes": ["italic"]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
