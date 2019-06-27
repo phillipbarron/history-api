@@ -2,8 +2,6 @@
   "version": "2.1",
   "headline": "Man bites dog",
   "assetId": "cq915kk4wy5o",
-  "total": 11,
-  "hasNextPage": true,
   "history": [
     {
       "version": 2,
@@ -90,5 +88,8 @@
         }
       ]
     }
-  ]
+  ],
+  "pagination": {
+    "nextLink": "https://optimo-history-api.{env}.api.bbci.co.uk/history/{assetId}?page=1"
+  }
 }
