@@ -90,6 +90,7 @@
     }
   ],
   "pagination": {
-    "nextLink": "https://optimo-history-api.{env}.api.bbci.co.uk/history/{assetId}?page=1"
+    "nextLink": "https://optimo-history-api.{env}.api.bbci.co.uk/history/{assetId}?page=2",
+    "prevLink": "https://optimo-history-api.{env}.api.bbci.co.uk/history/{assetId}?page=0"
   }
 }
