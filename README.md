@@ -1,6 +1,6 @@
-# History API response mocks
+# Proposal for History API
 
-These are propsed History API response mocks
+These can form the mockm responses for dev testing - we would expect some variation however this is likely to be modest. 
 
 ### Event Structure
 
