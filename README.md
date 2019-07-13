@@ -1,6 +1,6 @@
 # Proposal for History API
 
-These can form the mock responses for dev testing - we would expect some variation however this is likely to be modest. 
+These can form the mock responses for dev testing - we would expect some variation however this is likely to be modest.
 
 ### Event Structure
 
@@ -19,7 +19,7 @@ These can form the mock responses for dev testing - we would expect some variati
   ],
   "timestamp": "Date",
   "userId": "some.one@bbc.co.uk",
-  "assertVersion": "SemVer"
+  "minorVersion": number
 },
 ```
 
