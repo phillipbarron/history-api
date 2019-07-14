@@ -9,13 +9,13 @@ These can form the mock responses for dev testing - we would expect some variati
   "eventId": "GUID",
   "assetId": "String",
   "type": [
-    "Created",
     "Saved",
-    "Withdrawn",
     "Deleted",
     "Restored",
-    "MinorUpdatePublished",
-    "Published"
+    "Published",
+    "MinorCorrectionPublished",
+    "NewsUpdatePublished",
+    "Withdrawn"
   ],
   "timestamp": "Date",
   "userId": "some.one@bbc.co.uk",
