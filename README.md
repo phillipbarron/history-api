@@ -13,7 +13,7 @@ These can form the mock responses for dev testing - we would expect some variati
     "Deleted",
     "Restored",
     "Published",
-    "MinorCorrectionPublished",
+    "MinorChangePublished",
     "NewsUpdatePublished",
     "Withdrawn"
   ],
