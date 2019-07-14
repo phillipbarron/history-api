@@ -25,14 +25,10 @@ These can form the mock responses for dev testing - we would expect some variati
 
 ## Events
 
-initial proposal does not leave space for headline & version would be inferred
-
 GET:`/events/{assetId}`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/events.json)
 
 ## History
-
-added in headline and events and renamed results to events
 
 GET:`/history/{assetId}?page=n`
 [mock](https://github.com/phillipbarron/history-api/blob/master/mocks/history.json)
